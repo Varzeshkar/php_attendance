@@ -24,8 +24,8 @@ const DB_PASSWORD = "mysql";
 
 define('MAIL_HOST', 'smtp.gmail.com');
 define('SMTP_AUTH', true);
-define('MAIL_USERNAME', 'coding.php.js@gmail.com');
-define('MAIL_PASSWORD', 'PHP_JS_1400');
+define('MAIL_USERNAME', ':)');
+define('MAIL_PASSWORD', ':)');
 define('MAIL_PORT', 587);
 define('SENDER_MAIL', 'coding.php.js@gmail.com');
 define('SENDER_NAME', 'دوره آنلاین php جامع');
